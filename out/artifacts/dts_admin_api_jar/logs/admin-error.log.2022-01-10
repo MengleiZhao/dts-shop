@@ -1,0 +1,4 @@
+ERROR 2022-01-10 17:52:34,562 [http-nio-8083-exec-1] cn.binarywang.wx.miniapp.api.impl.WxMaServiceImpl > 
+【请求地址】: https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=52_4x-AP2FALhRCq_3nAaARutDThLNcj5y2j3MAD8zkzHr3nydfo7_NbkBwHcHESe4Vaz1fl8nKrytyRecTKYydm-6-QU34z0FA4JXdoyVR5UEyIRPnTtcIxCEfa2ovz4ZiMfEnzLXneAB1dJgJCKJbAHAYGF
+【请求参数】：WxaCodeUnlimit(scene=goods,23853, page=pages/index/index, width=430, autoColor=true, isHyaline=false, lineColor=null)
+【错误信息】：{"errcode":41030,"errmsg":"invalid page rid: 61dc01e2-6b111d53-491d567b"}
