@@ -96,7 +96,7 @@ dts:
     active: local
     # 本地对象存储配置信息
     local:
-      storagePath: D:\attachment\01-YSGL\0101-XMK
+      storagePath: /usr/local/project/proFile
       # 这个地方应该是wx模块的WxStorageController的fetch方法对应的地址
       address: http://localhost:8080/demo/wx/storage/fetch/
     # 阿里云对象存储配置信息
