@@ -7,7 +7,7 @@ spring:
     multipart:
       max-file-size: 50Mb
       max-request-size: 80Mb
-      location: D:\attachment\01-YSGL\0101-XMK
+      location: usr/local/project/proFile
 
 
 server:
