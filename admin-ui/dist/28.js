@@ -1211,7 +1211,7 @@ function deleteStorage(data) {
   });
 }
 
-var uploadPath = "http://124.223.32.86:8083/demo/admin" + '/storage/create';
+var uploadPath = "http://localhost:8083/demo/admin" + '/storage/create';
 
 
 /***/ }),
