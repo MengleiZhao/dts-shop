@@ -93,7 +93,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "7873a6cf9810282af72d";
+/******/ 	var hotCurrentHash = "a32431109968705df549";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -76487,7 +76487,7 @@ __webpack_require__.r(__webpack_exports__);
 
 // create an axios instance
 var service = axios__WEBPACK_IMPORTED_MODULE_1___default.a.create({
-  baseURL: "http://localhost:8083/demo/admin", // api 的 base_url
+  baseURL: "http://124.223.32.86:8083/demo/admin", // api 的 base_url
   timeout: 5000 // request timeout
 });
 
